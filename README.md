@@ -35,11 +35,11 @@ This extractor is for extracting system.new.dat in easy method without using com
  
 ## DOWNLOAD
 
-     git clone https://github.com/Ryzen5-3600/project.git
+     git clone https://github.com/Ryzen5-3600/Android_Image_System_Unpacker_and_Repacker.git
      
 _OR_
                                                      
-     https://codeload.github.com/Ryzen5-3600/project/zip/master
+     https://github.com/Ryzen5-3600/Android_Image_System_Unpacker_and_Repacker/archive/refs/heads/Windows11-ONLY.zip
  
 ## Contributors
  
